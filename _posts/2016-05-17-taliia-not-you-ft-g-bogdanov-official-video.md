@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-17T19:04:10.025Z'
+datePublished: '2016-05-17T19:04:11.122Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=uIPOogjSjz0'
 keywords:
   - duration
@@ -17,7 +17,7 @@ author:
   - name: TALIIA
     url: 'https://www.youtube.com/user/taliiaband'
     avatar: {}
-dateModified: '2016-05-17T19:04:09.536Z'
+dateModified: '2016-05-17T19:04:10.839Z'
 title: Taliia - Not You (ft. G. Bogdanov) - Official Video
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=uIPOogjSjz0&feature=applinks'
@@ -64,7 +64,7 @@ publisher:
 description: 'Producer: Vladislav Agafonov'
 inLanguage: en
 sourcePath: _posts/2016-05-17-taliia-not-you-ft-g-bogdanov-official-video.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
