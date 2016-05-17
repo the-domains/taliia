@@ -1,5 +1,5 @@
 layout_spectrum: 0.9617021
-typography_spectrum: 1
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png'
 name: TALIIA
 title: 'Pop Artist (singer & lyricist)'
@@ -15,15 +15,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 1
 color:
   brandStrength: 1
-  lightness: 0.3572853782679886
-  saturation: 0.07569925091229379
-  rhythmicContrast: 0.9486115965992212
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
   brandColors:
     - '#FFFFFF'
     - '#0180B7'
     - '#00C5ED'
     - '#080808'
     - '#FFFF0C'
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
