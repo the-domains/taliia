@@ -1,4 +1,3 @@
-layout_spectrum: 0.9655647468753159
 typography_spectrum: 0.2947171072009951
 color:
   brandStrength: 0.8554327341262251
@@ -11,5 +10,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.9655647468753159
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
 name: TALIIA
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png'
 title: 'Pop Artist (singer & lyricist)'
