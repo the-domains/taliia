@@ -1,17 +1,29 @@
-typography_spectrum: 0.2947171072009951
+layout_spectrum: 0.9617021
+typography_spectrum: 1
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png'
+name: TALIIA
+title: 'Pop Artist (singer & lyricist)'
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandStrength: 0.8554327341262251
-  lightness: 0.35728537826798856
+  brandStrength: 1
+  lightness: 0.3572853782679886
   saturation: 0.07569925091229379
   rhythmicContrast: 0.9486115965992212
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.9655647468753159
+    - '#FFFFFF'
+    - '#0180B7'
+    - '#00C5ED'
+    - '#080808'
+    - '#FFFF0C'
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
-name: TALIIA
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png'
-title: 'Pop Artist (singer & lyricist)'
