@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-05-17T19:04:11.122Z'
+datePublished: '2016-05-18T00:57:25.832Z'
+sourcePath: _posts/2016-05-17-taliia-not-you-ft-g-bogdanov-official-video.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=uIPOogjSjz0'
 keywords:
   - duration
@@ -17,8 +18,8 @@ author:
   - name: TALIIA
     url: 'https://www.youtube.com/user/taliiaband'
     avatar: {}
-dateModified: '2016-05-17T19:04:10.839Z'
-title: Taliia - Not You (ft. G. Bogdanov) - Official Video
+dateModified: '2016-05-18T00:07:08.322Z'
+title: "Official Music Video 'Not You' by Taliia feat. G.Bogdanov"
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=uIPOogjSjz0&feature=applinks'
     type: ios
@@ -57,25 +58,23 @@ app_links:
     namespace: google
     type: ios
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: 'Producer: Vladislav Agafonov'
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+description: "Music video by Taliia performing 'Not You'."
 inLanguage: en
-sourcePath: _posts/2016-05-17-taliia-not-you-ft-g-bogdanov-official-video.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f9f5009-907a-43ab-87cb-82b854198aae.jpg)
+![Music video by Taliia performing 'Not You'.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51ee100fbfac8d43fe7b466b8ac4a80b8a4fcac8.jpg)
 
-Producer: Vladislav Agafonov
+# [Watch on Vevo][0]
 
-Director: Igor Chernyshev
-
-VEVO: http://smartURL.it/TaliiaVEVO
+[0]: http://smartURL.it/TaliiaVEVO "Vevo"
