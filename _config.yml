@@ -1,9 +1,20 @@
-name: TALIIA
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png'
-layout_spectrum: 0.00584
-typography_spectrum: 0.89816
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
 title: 'Taliia | The One From Septermber'
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.7574468
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png'
+name: TALIIA
+purpose: []
+analytics:
+  twitter: null
+  google: UA-57894181-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -16,27 +27,16 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-57894181-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
-  brandColors:
-    - '#000000'
-    - '#00e3fe'
-    - '#008abb'
-    - '#002f40'
-    - '#005f75'
-  brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.6875
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-purpose: []
+  brandColors:
+    - '#013741'
+    - '#FFDAAD'
+    - '#3FF3F9'
+    - '#FF0000'
+    - '#B98151'
+typography_spectrum: 0.89816
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
