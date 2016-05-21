@@ -3,7 +3,7 @@ favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f
 layout_spectrum: 0.5104
 typography_spectrum: 0.89816
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
-title: Official Taliia Website
+title: 'Taliia | The One From Septermber'
 collections:
   - index:
       navigable: true
