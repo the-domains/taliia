@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Pop Artist]]></title>
-        <description><![CDATA[Pop Artist]]></description>
+        <title><![CDATA[Taliia | The One From Septermber]]></title>
+        <description><![CDATA[Taliia | The One From Septermber]]></description>
         <link>https://thegrid.ai/taliia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 00:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 05:59:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taliia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YouTube]]></title>
+            <description><![CDATA[<article><h1>YouTube</h1><p>Single 'Ice'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b25439b89dc07306e436753c10cd72d77a4c4d78.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taliia/youtube/index.html</link>
+            <guid isPermaLink="false">7b7e450b-e9ec-44cb-aa89-8e55969239bf</guid>
+            <pubDate>Sat, 21 May 2016 05:59:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Official Music Video 'Not You' by Taliia feat. G.Bogdanov]]></title>
             <description><![CDATA[<article><h1>Official Music Video 'Not You' by Taliia feat. G.Bogdanov</h1><p>Music video by Taliia performing 'Not You'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51ee100fbfac8d43fe7b466b8ac4a80b8a4fcac8.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Join Taliia Mailing List]]></title>
-            <description><![CDATA[<article><h1>Join Taliia Mailing List</h1><p>Subscribe</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dd2082d-27e4-4857-afeb-01df03b5f442.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Join Taliia Mailing List</h1><p>Be sure to stay connected by being a part of Taliia mailing list.   Taliia Newsletter   Sign up below for updates about new releases, videos & photos and exclusive events from Taliia.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dd2082d-27e4-4857-afeb-01df03b5f442.jpg"></article>]]></description>
             <link>http://smarturl.it/TaliiaSignUp </link>
             <guid isPermaLink="false">b48ff063-0b68-4c4e-9d30-af3085145d61</guid>
             <pubDate>Wed, 18 May 2016 00:15:55 GMT</pubDate>
