@@ -1,16 +1,16 @@
 title: 'Taliia | The One From Septermber'
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
 layout_spectrum: 1
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png'
 name: TALIIA
 purpose: []
 analytics:
-  facebook: null
-  google: UA-57894181-1
   twitter: null
+  google: UA-57894181-1
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -30,13 +30,13 @@ collections:
 color:
   brandStrength: 1
   lightness: 0.8212766
-  saturation: 0.5021276
-  rhythmicContrast: 0.9468085
+  saturation: 0.6340426
+  rhythmicContrast: 0.680851
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#FFFC01'
-    - '#B1B119'
-    - '#CD048B'
+    - '#010127'
+    - '#042636'
+    - '#0B6792'
+    - '#FAF119'
+    - '#26AFE4'
 typography_spectrum: 0.89816
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png'
