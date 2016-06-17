@@ -1,9 +1,21 @@
-name: TALIIA
+title: Taliia
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.9946
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png
-layout_spectrum: 0.9946
-typography_spectrum: 0.91328
-title: Taliia
+name: TALIIA
+purpose: []
+analytics:
+  twitter: null
+  google: UA-57894181-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -16,29 +28,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-57894181-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.3361702
+  lightness: 0.625
+  saturation: 0.4375
+  rhythmicContrast: 0.75
   brandColors:
     - '#fc1682'
     - '#feef35'
     - '#2e79fb'
     - '#23cdfd'
     - '#44085f'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.4375
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.91328
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2193cf79-ef84-45bf-ac4e-d44319058306.png
