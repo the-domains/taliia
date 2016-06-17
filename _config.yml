@@ -1,7 +1,7 @@
 name: TALIIA
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4130bb-f32f-47f0-930b-bcead61279bb.png
-layout_spectrum: 1
+layout_spectrum: 0.48998
 typography_spectrum: 0.89816
 title: Taliia
 collections:
@@ -37,8 +37,8 @@ color:
     - '#0B6792'
     - '#FAF119'
     - '#26AFE4'
-  brandStrength: 1
-  lightness: 0.8212766
-  saturation: 0.6340426
-  rhythmicContrast: 0.680851
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
